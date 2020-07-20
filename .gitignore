@@ -1,6 +1,3 @@
-input.txt
-output.txt
-*.out
-
-#vscode
+build/
+io/
 .vscode/
